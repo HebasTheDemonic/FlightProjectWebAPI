@@ -1,0 +1,7 @@
+C:\Users\mike\source\repos\FlightProject\FlightProject\bin\Release\FlightProject.dll.config
+C:\Users\mike\source\repos\FlightProject\FlightProject\bin\Release\FlightProject.dll
+C:\Users\mike\source\repos\FlightProject\FlightProject\bin\Release\FlightProject.pdb
+C:\Users\mike\source\repos\FlightProject\FlightProject\obj\Release\FlightProject.csprojAssemblyReference.cache
+C:\Users\mike\source\repos\FlightProject\FlightProject\obj\Release\FlightProject.csproj.CoreCompileInputs.cache
+C:\Users\mike\source\repos\FlightProject\FlightProject\obj\Release\FlightProject.dll
+C:\Users\mike\source\repos\FlightProject\FlightProject\obj\Release\FlightProject.pdb
